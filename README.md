@@ -1,10 +1,10 @@
-<h1 align="start">Hi 👋, I'm Shahar Shitol</h1>
+<h1 align="start">Hi 👋, I'm SHAHAR SHITOL</h1>
 <h4 align="start">A passionate MERN Stack developer from Bangladesh</h4>
 
 
 
 ### Here are some ideas about me
-- 🔭 I’m currently doing BBA in Accounting and information sytems at [Jahangirnagar University](https://juniv.edu/) 
+- 🔭 I’m currently doing BBA in Accounting and Information Sytems at [Jahangirnagar University](https://juniv.edu/) 
 - 🌱 I’m currently learning **JavaScript**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
