@@ -4,7 +4,7 @@
 
 
 ### Here are some ideas about me
-- 🔭 I’m currently doing BBA in Accounting and information sytems at [Jahangirnagar University] ( https://juniv.edu/) 
+- 🔭 I’m currently doing BBA in Accounting and information sytems at [Jahangirnagar University](https://juniv.edu/) 
 - 🌱 I’m currently learning **JavaScript**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
