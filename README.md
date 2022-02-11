@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JavaScript**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
-- 😝 Fun fact: **I Think I am funny**
+- 😝 Fun fact: **i'm a business Sudent who love coding over business subject**
 
 
 
