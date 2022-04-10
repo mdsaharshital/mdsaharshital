@@ -5,7 +5,7 @@
 
 ### Here are some ideas about me
 - 🔭 I’m currently doing BBA in Accounting and Information Sytems at [Jahangirnagar University](https://juniv.edu/) 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN Stack**
 - 🎯 2022 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
 - 😝 Fun fact: **A business Sudent who love coding over business subject**
@@ -40,9 +40,9 @@
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/ahamedashik01)
 <!-- [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/ahamedashik01) -->
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ahamedashik01)
-[![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](https://github.com/ahamedashik01)
+<!-- [![Next Badge](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextjs&logoColor=61DAFB)](https://github.com/ahamedashik01) -->
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ahamedashik01)
-[![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ahamedashik01)
+<!-- [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ahamedashik01) -->
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ahamedashik01)
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/ahamedashik01)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/ahamedashik01)
