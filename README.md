@@ -5,10 +5,10 @@
 
 ### Here are some ideas about me
 - 🔭 I’m currently doing BBA in Accounting and Information Sytems at [Jahangirnagar University](https://juniv.edu/) 
-- 🌱 I’m currently learning **MERN Stack**
-- 🎯 2022 Goals: **Getting Intern/Hired**
+- 🌱 I’m currently doing **MERN Stack**
+- 🎯 2023 Goals: **Getting Intern/Hired**
 - 💻 Most used code ```console.log();```
-- 😝 Fun fact: **A business Sudent who love coding over business subject**
+- 😝 Fun fact: **A business Sudent who love coding more**
 
 
 
